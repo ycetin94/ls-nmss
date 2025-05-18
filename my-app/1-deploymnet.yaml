@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: ycetin94/nginx:v10.1.2.3
+          image: ycetin94/nginx:v10.1.2.3.4
           ports:
             - containerPort: 80
           resources:
